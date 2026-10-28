@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jackson Hodges 👋
 
-<!--
-**jacksonhodges4507-crypto/jacksonhodges4507-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a student at Utah Valley University studying Communications and Cybersecurity. I build AI-powered workflows that fix everyday problems for real estate agents through my business, Moose Systems. I've been an entrepreneur for years: I ran Moose Mowing and co-founded ITSticks, a hat company. Today I work part-time as a sales associate at The Home Depot.
 
-Here are some ideas to get you started:
+## Career Goals
+- Grow Moose Systems from custom AI workflows into a SaaS product
+- Build deeper skills in cybersecurity, AI automation, and software development
+- Land a software engineering or security internship before I graduate
+- Keep adding projects and certifications to this portfolio as I learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+**Utah Valley University**, Orem, UT  
+Communications & Cybersecurity, expected graduation 2028
+
+**Mountainland Technical College**  
+Digital Design coursework
