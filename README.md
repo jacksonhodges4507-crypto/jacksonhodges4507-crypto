@@ -15,3 +15,8 @@ Communications & Cybersecurity, expected graduation 2028
 
 **Mountainland Technical College**  
 Digital Design coursework
+
+## Contact
+- 📧 Email: jacksonhodges4507@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/jacksonhodges](https://www.linkedin.com/in/jacksonhodges/)
+- 🤝 Handshake: [Handshake profile](https://app.joinhandshake.com/profiles/qaux38)
