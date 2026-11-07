@@ -16,6 +16,16 @@ Communications & Cybersecurity, expected graduation 2028
 **Mountainland Technical College**  
 Digital Design coursework
 
+## Projects
+- **[TrailCast](https://github.com/jacksonhodges4507-crypto/trailcast)**: a conditions-aware trail decision engine. It pulls live weather, air quality and wildfire data, scores each trail against its terrain and your activity, and cites every number.
+- **[Addendum Bot](https://github.com/jacksonhodges4507-crypto/addendum-bot)**: a Discord bot for real estate agents that fills Utah REPC addendum PDFs from seven questions, and can read a photo of an existing addendum to pre-fill the next one.
+- **[Riftbound Sparring](https://github.com/jacksonhodges4507-crypto/riftbound-sparring)**: a practice web app for the Riftbound card game with an AI opponent (in progress).
+
+## Coursework (INFO 1120)
+- **Academic Advisor Report**: in progress
+- **Job Shadow Report**: in progress
+- **Technology Investigation Paper**: in progress
+
 ## Contact
 - 📧 Email: jacksonhodges4507@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/jacksonhodges](https://www.linkedin.com/in/jacksonhodges/)
